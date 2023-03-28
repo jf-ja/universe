@@ -1,0 +1,42 @@
+ul{
+    color: white;
+}
+
+.navegacion{
+    margin-bottom: -70px;
+}
+
+.menu {
+    display: flex;
+}
+
+.lista {
+    position: relative;
+    width: 100%;
+    background-image: url(../../imagenes/estrellasmoradas.jpg);
+    border:1px solid rgb(33, 14, 172);
+    text-align: center;
+}
+
+.lista:hover{
+    background-color: rgb(10, 77, 232);
+}
+
+.lista:hover .dropdown {
+    display: flex;
+    opacity: 1;
+}
+
+.dropdown {
+    width: auto;
+    display: none;
+    background-image: url(../../imagenes/estrellasazules.jpg);
+}
+
+.dropdown li {
+    margin: 1%;
+}
+
+.dropdown a {
+    color: rgb(255, 255, 255);
+}

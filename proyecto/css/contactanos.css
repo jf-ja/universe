@@ -1,0 +1,28 @@
+#subtitulo{
+    color: rgb(29, 193, 193);
+    text-align: center;
+    font-size: 2em;
+    outline: 3px dashed #150080;
+    outline-offset: 10px;
+    background-image: url(../../imagenes/estrellas.jpg);
+}
+
+section h2{
+    text-align: left;
+    color: rgb(79, 144, 122);
+    font-size: 2em;
+}
+
+h3{
+    color: cadetblue;
+    font-size: 1.5em;
+}
+
+.piepagina {
+    margin-top: 10px;
+}
+
+.informacion{
+    background-image: url(/imagenes/estrellas.jpg);
+    height: 400px;
+}

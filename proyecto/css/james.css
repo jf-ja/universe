@@ -1,0 +1,50 @@
+
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    background-image: url("/imagenes/estrellasazules.jpg");
+}
+
+.piepagina{
+    width: 100%;
+    margin-top: 1%;
+    color: #2b2a2b;
+}
+
+.imagen{
+    width: 300px;
+    border: 3px solid rgb(34, 34, 34);
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 5%;
+    box-shadow: rgb(110, 31, 126) 5px 5px 3px;    
+}
+#referencia{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+.descripcion{
+    color: whitesmoke;
+    width: 1150px;
+    align-items: center;
+    font-size: 1.5em;
+    margin-top: 5%;
+    
+}
+
+#subTit{
+    color: antiquewhite;
+    text-align: center;
+}
+
+figure{
+    display:flex;
+}
+
+hr{
+    width: 1200px;
+}

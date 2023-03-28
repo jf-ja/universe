@@ -1,0 +1,35 @@
+#subtitulo{
+    color: rgb(29, 193, 193);
+    text-align: center;
+}
+
+#soy{
+   
+    color: rgb(183, 132, 250);
+    text-align: center;
+    width: 500px;
+    margin-left: 30%;
+}
+
+section{
+    background-image: url(../../imagenes/estrellasmoradas.jpg);
+    background-position: 50% 50%;
+    background-size: 60%;
+    height: 800px;
+    
+}
+
+figure img{
+    width: 400px;
+    margin-left: 35%;
+}
+
+figcaption{
+    color: aqua;
+    text-align: center;
+}
+
+
+.piepagina{
+    margin-top:0%;
+}

@@ -1,0 +1,44 @@
+
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+}
+
+.piepagina{
+    width: 100%;
+    margin-top: 1%;
+    background-color: #48311d;
+    text-align: center;
+    border: 3px solid #800000 ;
+    color: #2b2a2b;
+}
+
+.imagen{
+    width: 400px;
+    border: 3px solid rgb(34, 34, 34);
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 30%;
+    box-shadow: rgb(45, 98, 106) 5px 5px 3px;    
+}
+
+.imagen:hover{
+    -webkit-transform: scale(1.4);
+}
+
+#referencia{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+.descripcion{
+    color: whitesmoke;
+    
+}
+
+figure{
+    display:flexbox;
+}
